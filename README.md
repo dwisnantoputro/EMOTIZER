@@ -6,6 +6,9 @@ https://drive.google.com/file/d/1wh-VKK2Nigk95kYxhd8a3VDBX_L5oOEv/view?usp=drive
 ## Facial expression weights
 https://drive.google.com/drive/folders/1cgqRojc3bkj3Jm8rPW5CiLab3tlnFDYr?usp=drive_link
 
+## library used
+install.txt
+
 ### Citing 
 
 Please cite our paper in your publications if it helps your research:
