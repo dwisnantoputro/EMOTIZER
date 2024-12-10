@@ -1,5 +1,11 @@
 # EMOTIZER: A Multi-pose Facial Emotion Recognizer Using RGB Camera Sensor on Low-cost Devices
 
+## Face detection weight
+https://drive.google.com/file/d/1wh-VKK2Nigk95kYxhd8a3VDBX_L5oOEv/view?usp=drive_link
+
+## Facial expression weights
+https://drive.google.com/drive/folders/1cgqRojc3bkj3Jm8rPW5CiLab3tlnFDYr?usp=drive_link
+
 ### Citing 
 
 Please cite our paper in your publications if it helps your research:
